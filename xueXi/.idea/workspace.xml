@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b539a21-0c55-4737-856d-48a3ff089284" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xueXi" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="ProjectId" id="1c78NgzMdwh0JSXt59qrUHpa6Hd" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/笔记/图片" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Desktop\xueXi\笔记\图片" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Desktop\xueXi\笔记" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.stringUse.Persontest2">
+    <configuration name="ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.ProductTest" />
+      <module name="xueXi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadNowTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.ThreadNowTest" />
+      <module name="xueXi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ThreadPool.ThreadPool" />
+      <module name="xueXi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ThreadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringUse.Persontest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xueXi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stringUse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stringUse" />
+      <option name="MAIN_CLASS_NAME" value="com.stringUse.stringUse" />
+      <option name="METHOD_NAME" value="Persontest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringUse.Persontest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xueXi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stringUse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stringUse" />
+      <option name="MAIN_CLASS_NAME" value="com.stringUse.stringUse" />
+      <option name="METHOD_NAME" value="Persontest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.stringUse.Persontest2" />
+        <item itemvalue="JUnit.stringUse.Persontest1" />
+        <item itemvalue="Application.ThreadPool" />
+        <item itemvalue="Application.ThreadNowTest" />
+        <item itemvalue="Application.ProductTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b539a21-0c55-4737-856d-48a3ff089284" name="Default Changelist" comment="" />
+      <created>1589868234643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589868234643</updated>
+      <workItem from="1589868244064" duration="1328000" />
+      <workItem from="1589889020880" duration="9256000" />
+      <workItem from="1590130852999" duration="10839000" />
+      <workItem from="1590403170496" duration="40000" />
+      <workItem from="1590403255198" duration="8007000" />
+      <workItem from="1590428324606" duration="19958000" />
+      <workItem from="1590561905915" duration="9174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1590571498125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="490" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590571498125" />
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1590574599831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590574599831" />
+    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1590574599831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590574599831" />
+    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1590574599831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590574599831" />
+    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1590574599831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590574599831" />
+    <state width="1323" height="499" key="GridCell.Tab.1.bottom" timestamp="1590573459406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="499" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590573459406" />
+    <state width="1323" height="499" key="GridCell.Tab.1.center" timestamp="1590573459406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="499" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590573459406" />
+    <state width="1323" height="499" key="GridCell.Tab.1.left" timestamp="1590573459406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="499" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590573459406" />
+    <state width="1323" height="499" key="GridCell.Tab.1.right" timestamp="1590573459406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="499" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590573459406" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1590514301332">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590514301332" />
+    <state x="381" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590472875059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1590472875059" />
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590432880625">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1590432880625" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590573449211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590573449211" />
+  </component>
+</project>
