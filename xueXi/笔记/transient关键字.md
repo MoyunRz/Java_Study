@@ -22,7 +22,7 @@ import java.io.Serializable;
 public class TransientTest {
     
     public static void main(String[] args) {
-        
+        // 实列化对象
         User user = new User();
         user.setUsername("Alexia");
         user.setPasswd("123456");
@@ -32,10 +32,14 @@ public class TransientTest {
         System.err.println("password: " + user.getPasswd());
         
         try {
+            // ObjectOutputStream对象流，写出到指定文件
             ObjectOutputStream os = new ObjectOutputStream(
                     new FileOutputStream("C:/user.txt"));
-            os.writeObject(user); // 将User对象写进文件
+            // 将User对象写进文件
+            os.writeObject(user); 
+            // 刷新
             os.flush();
+            // 关闭对象流
             os.close();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
@@ -43,9 +47,12 @@ public class TransientTest {
             e.printStackTrace();
         }
         try {
+            // 读取指定文件
             ObjectInputStream is = new ObjectInputStream(new FileInputStream(
                     "C:/user.txt"));
-            user = (User) is.readObject(); // 从流中读取User的数据
+            // 从流中读取User的数据
+            user = (User) is.readObject();
+            // 关闭流 
             is.close();
             
             System.out.println("\nread after Serializable: ");
@@ -61,7 +68,10 @@ public class TransientTest {
         }
     }
 }
-
+/**
+* Serializable自动对象化序列
+*
+*/
 class User implements Serializable {
     private static final long serialVersionUID = 8294180014912103005L;  
     
