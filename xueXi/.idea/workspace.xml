@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b539a21-0c55-4737-856d-48a3ff089284" name="Default Changelist" comment="" />
+    <list default="true" id="0b539a21-0c55-4737-856d-48a3ff089284" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOTest/IOTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOTest/QQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOTest/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOTest/hi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOTest1/QQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOTest1/QQ1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOTest1/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IOTest/FileReaderWriterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Person/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dynamic/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fileTest/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myperson/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myperson/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myperson/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myperson/MyPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myperson/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/transient关键字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/序列化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/xueXi/META-INF/xueXi.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/xueXi/com/stringUse/stringUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/xueXi/com/stringUse/stringUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stringUse/stringUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringUse/stringUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/IO流.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/IO流.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,19 +46,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="JRebelWorkspace">
     <option name="jrebelEnabledAutocompile" value="true" />
   </component>
   <component name="ProjectId" id="1c78NgzMdwh0JSXt59qrUHpa6Hd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/笔记/图片" />
@@ -43,86 +76,102 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\Desktop\xueXi\笔记\图片" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Java_Study\xueXi\笔记\图片" />
+      <recent name="C:\Users\admin\Java_Study\xueXi\IOTest" />
       <recent name="H:\Desktop\xueXi\笔记" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myperson" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Java_Study\xueXi\笔记\图片" />
+      <recent name="C:\Users\admin\Java_Study\xueXi\IOTest" />
+      <recent name="H:\Desktop\xueXi\笔记\图片" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.stringUse.Persontest2">
-    <configuration name="ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.ProductTest" />
+  <component name="RunManager" selected="JUnit.FileTest.test10">
+    <configuration name="FileTest.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="xueXi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="com.fileTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadNowTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.ThreadNowTest" />
-      <module name="xueXi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ThreadPool.ThreadPool" />
-      <module name="xueXi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ThreadPool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="stringUse.Persontest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xueXi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stringUse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stringUse" />
-      <option name="MAIN_CLASS_NAME" value="com.stringUse.stringUse" />
-      <option name="METHOD_NAME" value="Persontest1" />
+      <option name="PACKAGE_NAME" value="com.fileTest" />
+      <option name="MAIN_CLASS_NAME" value="com.fileTest.FileTest" />
+      <option name="METHOD_NAME" value="test10" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringUse.Persontest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FileTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="xueXi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stringUse.*" />
+          <option name="PATTERN" value="com.fileTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.stringUse" />
-      <option name="MAIN_CLASS_NAME" value="com.stringUse.stringUse" />
-      <option name="METHOD_NAME" value="Persontest2" />
+      <option name="PACKAGE_NAME" value="com.fileTest" />
+      <option name="MAIN_CLASS_NAME" value="com.fileTest.FileTest" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xueXi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fileTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fileTest" />
+      <option name="MAIN_CLASS_NAME" value="com.fileTest.FileTest" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTest.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xueXi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fileTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fileTest" />
+      <option name="MAIN_CLASS_NAME" value="com.fileTest.FileTest" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTest.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xueXi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fileTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fileTest" />
+      <option name="MAIN_CLASS_NAME" value="com.fileTest.FileTest" />
+      <option name="METHOD_NAME" value="test9" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.stringUse.Persontest2" />
-        <item itemvalue="JUnit.stringUse.Persontest1" />
-        <item itemvalue="Application.ThreadPool" />
-        <item itemvalue="Application.ThreadNowTest" />
-        <item itemvalue="Application.ProductTest" />
+        <item itemvalue="JUnit.FileTest.test10" />
+        <item itemvalue="JUnit.FileTest.test9" />
+        <item itemvalue="JUnit.FileTest.test8" />
+        <item itemvalue="JUnit.FileTest.test7" />
+        <item itemvalue="JUnit.FileTest.test6" />
       </list>
     </recent_temporary>
   </component>
@@ -167,64 +216,127 @@
       <workItem from="1590403255198" duration="8007000" />
       <workItem from="1590428324606" duration="19958000" />
       <workItem from="1590561905915" duration="9174000" />
+      <workItem from="1590583965812" duration="7684000" />
+      <workItem from="1591156861727" duration="10085000" />
+      <workItem from="1591257022555" duration="13073000" />
+      <workItem from="1591586202937" duration="11736000" />
+      <workItem from="1591665950724" duration="1447000" />
     </task>
+    <task id="LOCAL-00001" summary="反射机制">
+      <created>1590589898323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590589898323</updated>
+    </task>
+    <task id="LOCAL-00002" summary="反射机制">
+      <created>1590590911424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590590911424</updated>
+    </task>
+    <task id="LOCAL-00003" summary="反射机制">
+      <created>1591157986388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591157986388</updated>
+    </task>
+    <task id="LOCAL-00004" summary="IO流">
+      <created>1591587761948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591587761949</updated>
+    </task>
+    <task id="LOCAL-00005" summary="IO流">
+      <created>1591610662714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591610662714</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="反射机制" />
+    <MESSAGE value="IO流" />
+    <option name="LAST_COMMIT_MESSAGE" value="IO流" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="490" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1590571498125">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1590596454127">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="490" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590571498125" />
-    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1590574599831">
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1590596454127" />
+    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591666311145">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590574599831" />
-    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1590574599831">
+    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1591666311145" />
+    <state x="490" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1591165118767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590574599831" />
-    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1590574599831">
+    <state x="490" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1591165118767" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1591610660602">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590574599831" />
-    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1590574599831">
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591610660602" />
+    <state width="1323" height="33" key="GridCell.Tab.0.bottom" timestamp="1591610848289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590574599831" />
-    <state width="1323" height="499" key="GridCell.Tab.1.bottom" timestamp="1590573459406">
+    <state width="1323" height="33" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
+    <state width="1323" height="33" key="GridCell.Tab.0.center" timestamp="1591610848289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="499" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590573459406" />
-    <state width="1323" height="499" key="GridCell.Tab.1.center" timestamp="1590573459406">
+    <state width="1323" height="33" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
+    <state width="1323" height="33" key="GridCell.Tab.0.left" timestamp="1591610848289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="499" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590573459406" />
-    <state width="1323" height="499" key="GridCell.Tab.1.left" timestamp="1590573459406">
+    <state width="1323" height="33" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
+    <state width="1323" height="33" key="GridCell.Tab.0.right" timestamp="1591610848289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="499" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590573459406" />
-    <state width="1323" height="499" key="GridCell.Tab.1.right" timestamp="1590573459406">
+    <state width="1323" height="33" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
+    <state width="1323" height="33" key="GridCell.Tab.1.bottom" timestamp="1591610848290">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="499" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590573459406" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1590514301332">
+    <state width="1323" height="33" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591610848290" />
+    <state width="1323" height="33" key="GridCell.Tab.1.center" timestamp="1591610848289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590514301332" />
+    <state width="1323" height="33" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
+    <state width="1323" height="33" key="GridCell.Tab.1.left" timestamp="1591610848289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="33" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
+    <state width="1323" height="33" key="GridCell.Tab.1.right" timestamp="1591610848290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="33" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591610848290" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1591602397999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591602397999" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1591610816767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591610816767" />
     <state x="381" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590472875059">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="381" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1590472875059" />
-    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590432880625">
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591666287873">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1590432880625" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590573449211">
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1591666287873" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591666430129">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590573449211" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591666430129" />
   </component>
 </project>
