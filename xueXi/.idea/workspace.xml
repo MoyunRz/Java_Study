@@ -2,30 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b539a21-0c55-4737-856d-48a3ff089284" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOTest/IOTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOTest/QQ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOTest/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOTest/hi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOTest1/QQ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOTest1/QQ1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOTest1/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/IOTest/FileReaderWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Person/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dynamic/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fileTest/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/myperson/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/myperson/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/myperson/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/myperson/MyPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/myperson/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/笔记/transient关键字.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/笔记/序列化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Chat/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Chat/ChatTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Chat/ClientServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Chat/DaoTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Chat/MyTcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Chat/ServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Chat/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TPool/PoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TPool/ThreadPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrayList/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tongxin/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tongxin/MyTcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tongxin/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tongxin/SocketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulie/ObjectInputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/泛型和通配符/泛型和通配符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/线程池/Executors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/线程池/ThreadPoolExecutor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/线程池/如何正确配置线程池的参数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/线程池/拒绝策略-handler.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/线程池/线程池中提交任务.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/线程池/线程池监控.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/网络编程/ 网络协议.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/网络编程/简易聊天室.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/网络编程/网络编程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/集合框架/ArrayList源码分析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/集合框架/LinkedList源码分析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/集合框架/List接口方法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/集合框架/Vector源码分析.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/xueXi/META-INF/xueXi.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/xueXi/com/stringUse/stringUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/xueXi/com/stringUse/stringUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stringUse/stringUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringUse/stringUse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/IO流.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/IO流.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/IO流.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/IO/IO流.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/JVM、堆、栈、方法区.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/JVM/JVM、堆、栈、方法区.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/assert关键字.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/关键字/assert关键字.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/transient关键字.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/关键字/transient关键字.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/序列化.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/IO/序列化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/缓存一致性.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/JVM/缓存一致性.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,109 +86,107 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/笔记/图片" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/Chat" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\Java_Study\xueXi\笔记\图片" />
-      <recent name="C:\Users\admin\Java_Study\xueXi\IOTest" />
-      <recent name="H:\Desktop\xueXi\笔记" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.myperson" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Java_Study\xueXi\src\com\Chat" />
       <recent name="C:\Users\admin\Java_Study\xueXi\笔记\图片" />
       <recent name="C:\Users\admin\Java_Study\xueXi\IOTest" />
       <recent name="H:\Desktop\xueXi\笔记\图片" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myperson" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Java_Study\xueXi\笔记\泛型和通配符" />
+      <recent name="C:\Users\admin\Java_Study\xueXi\笔记\IO" />
+      <recent name="C:\Users\admin\Java_Study\xueXi\笔记\JVM" />
+      <recent name="C:\Users\admin\Java_Study\xueXi\笔记\关键字" />
+      <recent name="C:\Users\admin\Java_Study\xueXi\笔记\网络编程" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.FileTest.test10">
-    <configuration name="FileTest.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ArrayListTest">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrayList.ArrayListTest" />
       <module name="xueXi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fileTest.*" />
+          <option name="PATTERN" value="com.arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fileTest" />
-      <option name="MAIN_CLASS_NAME" value="com.fileTest.FileTest" />
-      <option name="METHOD_NAME" value="test10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TPool.ThreadPoolTest" />
+      <module name="xueXi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xueXi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Collections" />
+      <option name="MAIN_CLASS_NAME" value="com.Collections.ForTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IteratorTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="xueXi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fileTest.*" />
+          <option name="PATTERN" value="com.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fileTest" />
-      <option name="MAIN_CLASS_NAME" value="com.fileTest.FileTest" />
-      <option name="METHOD_NAME" value="test6" />
+      <option name="PACKAGE_NAME" value="com.Collections" />
+      <option name="MAIN_CLASS_NAME" value="com.Collections.IteratorTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PoolTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="xueXi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fileTest.*" />
+          <option name="PATTERN" value="com.TPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fileTest" />
-      <option name="MAIN_CLASS_NAME" value="com.fileTest.FileTest" />
-      <option name="METHOD_NAME" value="test7" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileTest.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xueXi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fileTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fileTest" />
-      <option name="MAIN_CLASS_NAME" value="com.fileTest.FileTest" />
-      <option name="METHOD_NAME" value="test8" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileTest.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xueXi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fileTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fileTest" />
-      <option name="MAIN_CLASS_NAME" value="com.fileTest.FileTest" />
-      <option name="METHOD_NAME" value="test9" />
+      <option name="PACKAGE_NAME" value="com.TPool" />
+      <option name="MAIN_CLASS_NAME" value="com.TPool.PoolTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FileTest.test10" />
-        <item itemvalue="JUnit.FileTest.test9" />
-        <item itemvalue="JUnit.FileTest.test8" />
-        <item itemvalue="JUnit.FileTest.test7" />
-        <item itemvalue="JUnit.FileTest.test6" />
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.ThreadPoolTest" />
+        <item itemvalue="JUnit.PoolTest.test1" />
+        <item itemvalue="JUnit.ForTest.test1" />
+        <item itemvalue="JUnit.IteratorTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +235,13 @@
       <workItem from="1591156861727" duration="10085000" />
       <workItem from="1591257022555" duration="13073000" />
       <workItem from="1591586202937" duration="11736000" />
-      <workItem from="1591665950724" duration="1447000" />
+      <workItem from="1591665950724" duration="2959000" />
+      <workItem from="1591669334578" duration="10130000" />
+      <workItem from="1592372331582" duration="997000" />
+      <workItem from="1592378161519" duration="11743000" />
+      <workItem from="1592485572604" duration="927000" />
+      <workItem from="1592636147007" duration="7242000" />
+      <workItem from="1592833052556" duration="1742000" />
     </task>
     <task id="LOCAL-00001" summary="反射机制">
       <created>1590589898323</created>
@@ -257,83 +278,114 @@
       <option name="project" value="LOCAL" />
       <updated>1591610662714</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="IO流\设计模式">
+      <created>1591667431527</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591667431527</updated>
+    </task>
+    <task id="LOCAL-00007" summary="序列化">
+      <created>1591668346240</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591668346240</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="反射机制" />
     <MESSAGE value="IO流" />
-    <option name="LAST_COMMIT_MESSAGE" value="IO流" />
+    <MESSAGE value="IO流\设计模式" />
+    <MESSAGE value="序列化" />
+    <option name="LAST_COMMIT_MESSAGE" value="序列化" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1590596454127">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1590596454127" />
-    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591666311145">
+    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592384698449">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1591666311145" />
-    <state x="490" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1591165118767">
+    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592384698448" />
+    <state x="490" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1592833300846">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="490" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1591165118767" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1591610660602">
+    <state x="490" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592833300846" />
+    <state x="462" y="249" width="441" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591674293138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591610660602" />
-    <state width="1323" height="33" key="GridCell.Tab.0.bottom" timestamp="1591610848289">
+    <state x="462" y="249" width="441" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1591674293138" />
+    <state x="426" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592644677129">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="33" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
-    <state width="1323" height="33" key="GridCell.Tab.0.center" timestamp="1591610848289">
+    <state x="426" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1592644677129" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1591668344275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="33" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
-    <state width="1323" height="33" key="GridCell.Tab.0.left" timestamp="1591610848289">
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591668344275" />
+    <state width="1323" height="27" key="GridCell.Tab.0.bottom" timestamp="1592903822160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="33" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
-    <state width="1323" height="33" key="GridCell.Tab.0.right" timestamp="1591610848289">
+    <state width="1323" height="27" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592903822160" />
+    <state width="1323" height="27" key="GridCell.Tab.0.center" timestamp="1592903822160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="33" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
-    <state width="1323" height="33" key="GridCell.Tab.1.bottom" timestamp="1591610848290">
+    <state width="1323" height="27" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592903822160" />
+    <state width="1323" height="27" key="GridCell.Tab.0.left" timestamp="1592903822160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="33" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591610848290" />
-    <state width="1323" height="33" key="GridCell.Tab.1.center" timestamp="1591610848289">
+    <state width="1323" height="27" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592903822160" />
+    <state width="1323" height="27" key="GridCell.Tab.0.right" timestamp="1592903822160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="33" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
-    <state width="1323" height="33" key="GridCell.Tab.1.left" timestamp="1591610848289">
+    <state width="1323" height="27" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592903822160" />
+    <state width="1323" height="2" key="GridCell.Tab.1.bottom" timestamp="1592669104320">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="33" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591610848289" />
-    <state width="1323" height="33" key="GridCell.Tab.1.right" timestamp="1591610848290">
+    <state width="1323" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592669104320" />
+    <state width="1323" height="2" key="GridCell.Tab.1.center" timestamp="1592669104320">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="33" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591610848290" />
+    <state width="1323" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592669104320" />
+    <state width="1323" height="2" key="GridCell.Tab.1.left" timestamp="1592669104320">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592669104320" />
+    <state width="1323" height="2" key="GridCell.Tab.1.right" timestamp="1592669104320">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592669104320" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1591602397999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591602397999" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1591610816767">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1591668354490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591610816767" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591668354490" />
     <state x="381" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590472875059">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="381" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1590472875059" />
-    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591666287873">
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592390176695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1591666287873" />
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1592390176695" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1592388757380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1592388757380" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591666430129">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
